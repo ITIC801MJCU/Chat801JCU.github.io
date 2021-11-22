@@ -1,12 +1,12 @@
 /*  Initializa Firebase con la configuración del proyecto. Revisa la
  * configuración en tu servidor de Firebase.  */
 // @ts-ignore
-firebase.initializeApp({
-  apiKey: "AIzaSyBYsPHpdYXy6jvmrRt-vNh5COOePT4GmGE",
-  authDomain: "rfbdwp801.firebaseapp.com",
-  projectId: "rfbdwp801",
-  storageBucket: "rfbdwp801.appspot.com",
-  messagingSenderId: "335302255418",
-  appId: "1:335302255418:web:15427d0d702517c426a603",
-  measurementId: "G-13RB54RPGY"
-    });
+const firebaseConfig = {
+  apiKey: "AIzaSyCeoZEfejqs8bV09WAAUgwZwo3BWOAOofw",
+  authDomain: "chat801jcu-2b1b9.firebaseapp.com",
+  projectId: "chat801jcu-2b1b9",
+  storageBucket: "chat801jcu-2b1b9.appspot.com",
+  messagingSenderId: "958465607386",
+  appId: "1:958465607386:web:c75ebf3db7b877ad01c7e3",
+  measurementId: "G-8GR3W6W5ZC"
+};
